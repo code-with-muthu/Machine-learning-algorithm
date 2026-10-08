@@ -332,19 +332,18 @@ Run the notebook cells sequentially to understand the implementation and results
 
 # 👩‍💻 Author
 
-**Khushi R**
+**Muthukumar G**
 
 AI & Data Science Graduate
 
-- 💼 Aspiring AI/ML Engineer & Data Scientist
-- 🐍 Python | SQL | Machine Learning | Data Science
+- 💼 Aspiring Software engineer | AI/ML Engineer & Data Scientist
+- 🐍 Python | SQL | Machine Learning | Data Science | Artificial intelligence 
 - 📊 Passionate about Artificial Intelligence and building real-world Machine Learning solutions
 
 ### Connect with me
-
-- **GitHub:** https://github.com/Khushi-datascientist
-- **LinkedIn:** https://www.linkedin.com/in/itz-khushi
-
+- GitHub: [code-with-muthu](https://github.com/code-with-muthu)
+- LinkedIn: [heymuthu](https://linkedin.com/in/heymuthu/)
+- Email: 1719muthukumar@gmail.com
 ---
 
 # 📄 License
